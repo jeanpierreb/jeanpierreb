@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Jean-Pierre 👋🏾
 
-<!--
-**jeanpierreb/jeanpierreb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the CTO at Onramp, a self-taught coder, part-time open-source contributor, and a technology enthusiast eager to solve real-world problems. I'm currently diving into Machine Learning and Google Cloud Platform while building fun projects with AI and IoT.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Currently Learning
+Machine Learning: Exploring various algorithms and frameworks to build smarter applications.
+Google Cloud Platform (GCP): Gaining proficiency in cloud technologies to scale and optimize systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- Languages: Python, JavaScript, and C
+- Frameworks: React, Node.js
+- DevOps: Docker, Kubernetes
+- Database: MySQL, MongoDB
+- Cloud: AWS, Google Cloud Platform
+
+### 🌐 Open-Source Contributions
+Looking to be an active contributor to few open-source projects. If you'd like to collaborate, feel free to reach out!
+
+### 💬 Where You Can Find Me
+- LinkedIn: @jeanpierreb
+- Twitter: @jeanpier_re
+
